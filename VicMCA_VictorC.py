@@ -1,0 +1,1 @@
+print("VictorMCA tava tomado já daí tive de resumir.")
